@@ -31,3 +31,9 @@ Description of the doc.
 
 - link one
 - link two
+
+## Page Tasks
+
+- [ ] do this
+- [ ] do that
+- [ ] blah blah blah
