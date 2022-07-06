@@ -1,3 +1,7 @@
+---
+nav_exclude: true
+---
+
 # Page Title
 
 Description of the doc.
