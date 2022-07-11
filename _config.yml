@@ -2,5 +2,7 @@ title: XR Performance
 description: This is a site to organize materials for our class on XR Performance.
 remote_theme: just-the-docs/just-the-docs
 
+markdown: GFM
+
 plugins:
   - jemoji
