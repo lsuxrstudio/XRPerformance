@@ -1,3 +1,7 @@
+---
+has_children: true
+---
+
 # OSC Tracking
 
 A guide on how to setup OSC tracking between Unreal and Max.
