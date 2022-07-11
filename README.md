@@ -4,7 +4,7 @@ nav_order: 1
 permalink: /
 ---
 
-# XR Performance
+# About
 
 This is a site to organize materials for our class on **XR Performance**.
 
