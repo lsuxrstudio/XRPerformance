@@ -1,3 +1,7 @@
+---
+parent: OSC Tracking
+---
+
 # OSC Child
 
 Description of the doc.
